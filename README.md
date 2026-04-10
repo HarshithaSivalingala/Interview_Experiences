@@ -11,4 +11,9 @@ Lists all the interview experiences from Interview Prep Community
 - [Databricks](./databricks)
 - [Meta](./meta)
 - [KPMG](./kpmg)
-  
+- [Paypal](./paypal)
+- [GEICO](./geico)
+- [Amazon](./amazon)
+- [Uber](./uber)
+- [Microsoft](./microsoft)
+
